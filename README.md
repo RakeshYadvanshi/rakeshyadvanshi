@@ -7,15 +7,18 @@ With all the experience, I am going to be helpful 90% to solve the problem witho
 
 ### Technical Key Skill
 
-- Backend: Asp.net webforms, Asp.net MVC, Asp.net core, Asp.net Web API, Asp.net core API, WPF, WPF core, SignalR, Nodejs, PHP core, PHP symphony.
-- DBs: MongoDB, MSSQL, MySQL,  Firebase NoSQL DB
-- ORMs:  EF, EF Core(didn't find much of difference.), Sequelize with Node JS, doctrine with PHP.
-- Frontend: Bootstrap, Ionic, Material CSS,  
-- Queue Systems : Amazon SQS, RabbitMQ.
-- Source Control: GitHub, GitLab, bitbucket, azure git
-- Task Management:  Zira, Asana, Trello,
-- deployment: IIS, Azure, AWS
-- Payment Integration: PayPal, Stripe, CCAvenue
+- **Backend:** 
+  * **.NET Stack:** Asp.net webforms, Asp.net MVC, Asp.net core, Asp.net Web API,Asp.net core API, WPF, WPF core, SignalR.
+  *  **PHP Stack:** PHP core, PHP symphony
+  *  **MEAN:** NodeJs, ExpressJs
+- **DBs:** MongoDB, MSSQL, MySQL,  Firebase NoSQL DB
+- **ORMs:**  EF, EF Core(didn't find much of difference.), Sequelize with Node JS, doctrine with PHP.
+- **Frontend:** Bootstrap, Ionic, Material CSS,  
+- **Queue Systems:** Amazon SQS, RabbitMQ.
+- **Source Control:** GitHub, GitLab, bitbucket, azure git
+- **Task Management:**  Zira, Asana, Trello,
+- **Deployment:** IIS, Azure, AWS
+- **Payment Integration:** PayPal, Stripe, CCAvenue
 
 ### Guarantees:
 - In time delivery
