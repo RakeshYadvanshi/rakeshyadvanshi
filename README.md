@@ -26,9 +26,9 @@ With all the experience, I am going to be helpful 90% to solve the problem witho
 
 
 ### Stat:
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshyadvanshi" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rakeshyadvanshi&show_icons=true&count_private=true" />
+ ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshyadvanshi)
+![Top Languages Card](https://github-readme-stats.vercel.app/api?username=rakeshyadvanshi&show_icons=true&count_private=true)
+ 
 <!--
 **RakeshYadvanshi/rakeshyadvanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
