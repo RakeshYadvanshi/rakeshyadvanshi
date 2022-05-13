@@ -17,9 +17,6 @@ With all the experience, I am going to be helpful 90% to solve the problem witho
 - deployment: IIS, Azure, AWS
 - Payment Integration: PayPal, Stripe, CCAvenue
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshyadvanshi)
-
-
 ### Guarantees:
 - In time delivery
 - Testing
@@ -27,9 +24,11 @@ With all the experience, I am going to be helpful 90% to solve the problem witho
 - Work reports(on demand)
 - High availability. Also can correct working hours (Def: EST Time Zone)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rakeshyadvanshi&show_icons=true&count_private=true)
 
+### Stat:
 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshyadvanshi" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rakeshyadvanshi&show_icons=true&count_private=true" />
 <!--
 **RakeshYadvanshi/rakeshyadvanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
