@@ -1,4 +1,4 @@
-## Hi I am Rakesh Kumar 👋
+## Hey, I am Rakesh Kumar 👋
 
 ### About me
 I have working in the IT industry since 2014. While in the industry, I have been working on varying sizes of projects from small tools to enterprise level products (monolithic and microservices). Along with that I have worked on multiple technologies like PHP (2+ years),  .Net (6+ years) and Hybrid mobile app development (3+ years).
